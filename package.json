@@ -1,0 +1,21 @@
+{
+  "name": "jun-multiple-cli",
+  "version": "1.0.0",
+  "description": "template copy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "jtemp-cli": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blinkJun/jtemp-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "530080147@qq.com",
+  "license": "MIT"
+}
