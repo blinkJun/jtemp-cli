@@ -17,5 +17,11 @@
     "cli"
   ],
   "author": "530080147@qq.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "commander": "^4.1.1",
+    "git-clone": "^0.1.0",
+    "shelljs": "^0.8.3",
+    "tracer": "^1.0.2"
+  }
 }
